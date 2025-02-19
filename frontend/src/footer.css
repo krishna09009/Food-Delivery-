@@ -1,0 +1,19 @@
+.footer{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+
+    bottom: 0px;
+    width: 100%;
+    margin-top: 30px;
+    /* margin: 2px;
+    margin-right: 11px; */
+    /* justify-content: space-evenly; */
+   
+    
+  }
+  .footer p{
+    padding: 20px;
+
+  }
